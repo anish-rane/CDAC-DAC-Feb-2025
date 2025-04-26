@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Segoe UI', sans-serif;
+    }
+
+    body {
+      height: 1000vh;
+      background: linear-gradient(to right, #6dd5ed, #2193b0);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    form {
+      background: white;
+      padding: 40px;
+      border-radius: 15px;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+      width: 400px;
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+    }
+
+    h1 {
+      text-align: center;
+      color: #333;
+      margin-bottom: 20px;
+    }
+
+    label {
+      font-size: 14px;
+      color: #555;
+      margin-bottom: 5px;
+    }
+
+    input[type="text"],
+    input[type="email"],
+    input[type="password"],
+    input[type="date"] {
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      font-size: 14px;
+      width: 100%;
+    }
+
+    input[type="radio"],
+    input[type="checkbox"] {
+      margin-right: 8px;
+    }
+
+    button {
+      padding: 12px;
+      background-color: #2193b0;
+      color: white;
+      font-weight: bold;
+      border: none;
+      border-radius: 25px;
+      cursor: pointer;
+      transition: 0.3s ease;
+    }
+
+    button:hover {
+      background-color: #1b7e9e;
+    }
+
+    p {
+      text-align: center;
+      font-size: 14px;
+    }
+
+    a {
+      color: #2193b0;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+    </style>
+</head>
+<body>
+    <form >
+        <h1>Registration form</h1>
+        <label >Name: </label>
+        <input type="text" placeholder="Enter your username" required><br><br>
+        <label >Email: </label>
+        <input type="email" placeholder="Enter your email" required><br><br>
+        <label for>Password: </label>
+        <input type="password" placeholder="Enter your Password" required><br><br>
+        <label for>Conform password: </label>
+        <input type="password" placeholder="Enter your Password" required><br><br>
+        <label >Date of birth</label>
+        <input type="date" required>
+        <br><br>
+        <label>Gender:</label>
+        Male<input type="radio" name="gender">
+        Female<input type="radio"name="gender"><br><br>
+        <input type="checkbox" >By clicking "Register", you agree to our <a href="#">Terms and Conditions.<a>
+        <button type="submit" onclick="window.location.href='login.html'">Register</button>
+       
+        <p>Already have an account? <a href="login.html">Login here</a>.</p>
+    </form>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Example</title>
+    <script>
+        function submitForm() {
+            // Get form values
+            const firstname = document.getElementById("firstname").value;
+            const lastname = document.getElementById("lastname").value;
+            const ContactNo = document.getElementById("ContactNo").value;
+            const emailID = document.getElementById("emailID").value;
+            
+            // Display values on the browser page
+            const outputDiv = document.getElementById("output");
+            outputDiv.innerHTML = `
+                <p>First Name: ${firstname}</p>
+                <p>Last Name: ${lastname}</p>
+                <p>Contact No.: ${ContactNo}</p>
+                <p>Email ID: ${emailID}</p>
+            `;
+        }
+    </script>
+</head>
+<body>
+    <div>
+        <form>
+            <label for="firstname">First Name</label>
+            <input type="text" id="firstname" name="firstname" required><br><br>
+            <label for="lastname">Last Name</label>
+            <input type="text" id="lastname" name="lastname" required><br><br>
+            <label for="ContactNo">Contact Number</label>
+            <input type="tel" id="ContactNo" name="ContactNo" required><br><br>
+            <label for="emailID">Email ID</label>
+            <input type="email" id="emailID" name="emailID" required><br><br>
+            <button type="button" onclick="submitForm()">Submit</button>
+        </form>
+    </div>
+    <div id="output" class="output"></div>
+</body>
+</html>

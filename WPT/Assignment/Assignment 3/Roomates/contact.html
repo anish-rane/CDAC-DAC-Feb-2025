@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contact Us - Roommate Connect</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="images/logo.png" >
+  <style>
+    form{
+      align-content: center;
+      margin: auto;
+      width: 300px;
+      display:flex;
+      flex-direction: column;
+      border: 1px;
+      border-radius: 20px;
+      border-width: 1px;
+      border-color: black;
+      background-color: rgb(240, 248, 255,50%);
+    }
+    h1{
+      color: azure;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      justify-self: center;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <nav class="navbar">
+    <div class="logo">
+      <img src="images/logo.png" alt="Roommate Connect">
+    </div>
+
+    <input type="checkbox" id="menu-toggle">
+    <label for="menu-toggle" class="menu-icon">☰</label>
+
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About Us</a></li>
+      <li class="dropdown">
+        <a href="#">Account ▾</a>
+        <ul class="dropdown-menu">
+          <li><a href="signup.html">Sign Up</a></li>
+          <li><a href="signin.html">Sign In</a></li>
+        </ul>
+      </li>
+      <li><a href="contact.html">Contact Us</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+  <br><br><br><br><br><br>
+  <section class="form-section">
+    
+    <h1>Contact Us</h1>
+    <form>
+      <label >Enter Your Name</label>
+      <input type="text" placeholder="Your Name" required><br><br>
+      <label >Enter yout Email id</label>
+      <input type="email" placeholder="Your Email" required><br><br>
+      <label >Enter your Message</label>
+      <textarea placeholder="Your Message" required></textarea><br><br>
+      <button class="btn-primary" type="submit">Send Message</button>
+    </form>
+  </section>
+</main>
+
+<footer>
+  <p>© 2025 Roommate Connect | Email: support@roommateconnect.com</p>
+  <div class="social-icons">
+    <a href="#">Instagram</a> | <a href="#">Facebook</a> | <a href="#">Twitter</a>
+  </div>
+</footer>
+
+</body>
+</html>

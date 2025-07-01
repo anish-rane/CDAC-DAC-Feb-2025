@@ -1,0 +1,14 @@
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment2\Assignment2\Assignment2\bin\Debug\net9.0\Assignment2.exe
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment2\Assignment2\Assignment2\bin\Debug\net9.0\Assignment2.deps.json
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment2\Assignment2\Assignment2\bin\Debug\net9.0\Assignment2.runtimeconfig.json
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment2\Assignment2\Assignment2\bin\Debug\net9.0\Assignment2.dll
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment2\Assignment2\Assignment2\bin\Debug\net9.0\Assignment2.pdb
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment2\Assignment2\Assignment2\obj\Debug\net9.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment2\Assignment2\Assignment2\obj\Debug\net9.0\Assignment2.AssemblyInfoInputs.cache
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment2\Assignment2\Assignment2\obj\Debug\net9.0\Assignment2.AssemblyInfo.cs
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment2\Assignment2\Assignment2\obj\Debug\net9.0\Assignment2.csproj.CoreCompileInputs.cache
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment2\Assignment2\Assignment2\obj\Debug\net9.0\Assignment2.dll
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment2\Assignment2\Assignment2\obj\Debug\net9.0\refint\Assignment2.dll
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment2\Assignment2\Assignment2\obj\Debug\net9.0\Assignment2.pdb
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment2\Assignment2\Assignment2\obj\Debug\net9.0\Assignment2.genruntimeconfig.cache
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment2\Assignment2\Assignment2\obj\Debug\net9.0\ref\Assignment2.dll

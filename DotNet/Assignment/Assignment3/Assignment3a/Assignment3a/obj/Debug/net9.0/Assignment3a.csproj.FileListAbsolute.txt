@@ -1,0 +1,14 @@
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment3\Assignment3a\Assignment3a\bin\Debug\net9.0\Assignment3a.exe
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment3\Assignment3a\Assignment3a\bin\Debug\net9.0\Assignment3a.deps.json
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment3\Assignment3a\Assignment3a\bin\Debug\net9.0\Assignment3a.runtimeconfig.json
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment3\Assignment3a\Assignment3a\bin\Debug\net9.0\Assignment3a.dll
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment3\Assignment3a\Assignment3a\bin\Debug\net9.0\Assignment3a.pdb
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment3\Assignment3a\Assignment3a\obj\Debug\net9.0\Assignment3a.GeneratedMSBuildEditorConfig.editorconfig
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment3\Assignment3a\Assignment3a\obj\Debug\net9.0\Assignment3a.AssemblyInfoInputs.cache
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment3\Assignment3a\Assignment3a\obj\Debug\net9.0\Assignment3a.AssemblyInfo.cs
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment3\Assignment3a\Assignment3a\obj\Debug\net9.0\Assignment3a.csproj.CoreCompileInputs.cache
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment3\Assignment3a\Assignment3a\obj\Debug\net9.0\Assignment3a.dll
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment3\Assignment3a\Assignment3a\obj\Debug\net9.0\refint\Assignment3a.dll
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment3\Assignment3a\Assignment3a\obj\Debug\net9.0\Assignment3a.pdb
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment3\Assignment3a\Assignment3a\obj\Debug\net9.0\Assignment3a.genruntimeconfig.cache
+D:\cdac\PG-DAC\moduls\.net\Assignment\Assignment3\Assignment3a\Assignment3a\obj\Debug\net9.0\ref\Assignment3a.dll
